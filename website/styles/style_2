@@ -1,0 +1,11 @@
+html {
+    background-color : #95f0e4;
+    background-image : url("resources/images/sec_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body {
+     width: 600px;
+     margin: 0 auto;
+    
+}
