@@ -2,6 +2,8 @@ html {
 
 }
 body {
+    width: 600px;
+    margin: 0 auto;
     background-image : url("resources/images/sec_1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
